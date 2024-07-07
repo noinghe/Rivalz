@@ -57,6 +57,7 @@
 
 ![image](https://github.com/ruesandora/Rivalz/assets/101149671/a07cb8bb-9327-4d1b-9fc5-e9e759c981e6)
 
+
 > Sunucumuza off/on yapıyor tekrar bağlanıyoruz.
 
 > Akabinde şifre belirleme alanı geliyor burda 8 haneli bir şifre girin büyük harf istiyor
@@ -218,7 +219,7 @@
 
 ![image](https://github.com/ruesandora/Rivalz/assets/101149671/448d8fd2-e841-4719-b95b-a765faf9e707)
 
-
+![image]
 > Kişisel bilgisayarınızda Uzaktan Masaüstü bağlantı programı var onu açın.
 
 > Mac'de Microsoft Remote Desktop - Windows'da Windows Remot isminde olmalı.
@@ -311,3 +312,6 @@ chmod +x rClient-latest.AppImage
 > Akabinde rivalz'da LOYALTY NFTs kısmını yapmayı unutmayın mintlein 10 NFT'yi.
 
 > Rivalz hakkında link paylaşmak isterseniz [burayı](https://t.me/ruesshare/21528) kullanabilirsiniz.
+>
+> ![Sonaric](https://github.com/noinghe/Rivalz/assets/136286424/d7d21dcd-146c-4c1d-8b34-7ff3cd61068e)
+
